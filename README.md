@@ -1,5 +1,2 @@
 # TOP-LandingPage
-1st project!!
-First project done, Flexbox was a bit more challenging than I thought originially. 
-I feel like I could have made the layout a bit neater
-I feel like I could have utalized more ID's instead of just classes as well.
+First project done, the purpose of this was to create a landing page mainly using flexbox for the layout and orientation. Flexbox was a bit more chalenging than I originally expected but I learned a great deal during this project.
